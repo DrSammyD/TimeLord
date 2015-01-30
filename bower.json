@@ -1,0 +1,34 @@
+{
+    "name": "timelord",
+    "version": "2.0.0",
+    "moduleType": [
+        "amd"
+    ],
+    "main": [
+        "javascripts/*.js"
+    ],
+    "keywords": [
+        "time",
+        "date",
+        "calendar",
+        "amd"
+    ],
+    "authors": [
+        "Sam Armstrong"
+    ],
+    "ignore": [
+        "source",
+        "spec",
+        ".bowerrc",
+        ".gitignore",
+        ".gitattributes",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "gruntfile.js",
+        "package.json",
+        "README.md"
+    ],
+    "dependencies": {
+    }
+}

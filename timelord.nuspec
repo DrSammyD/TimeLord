@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<package> 
+  <metadata>
+    <title>timelord</title> 
+    <id>timelord</id> 
+    <version>1.0.0</version>
+    <authors>Sam Armstrong</authors>
+    <description>A Plugable Configurable Time Management library</description> 
+    <language>en-US</language>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <projectUrl>http://drsammyd.github.io/timelord</projectUrl>
+    <tags>time date calendar amd</tags>
+  </metadata> 
+  <files>
+    <file src="javascripts\*.*" target="Content\Scripts\" />
+  </files>
+</package>
